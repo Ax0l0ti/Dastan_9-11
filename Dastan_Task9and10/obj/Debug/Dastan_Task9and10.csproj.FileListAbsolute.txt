@@ -1,0 +1,7 @@
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\bin\Debug\Dastan_Task9and10.exe
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\bin\Debug\Dastan_Task9and10.pdb
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\obj\Debug\Dastan_Task9and10.csproj.AssemblyReference.cache
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\obj\Debug\Dastan_Task9and10.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\obj\Debug\Dastan_Task9and10.csproj.CoreCompileInputs.cache
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\obj\Debug\Dastan_Task9and10.exe
+C:\Users\isaac\RiderProjects\New folder\Dastan_Task9\Dastan_Task9and10\obj\Debug\Dastan_Task9and10.pdb
